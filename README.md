@@ -1,7 +1,7 @@
 # Hsuan-DataScience(UCI)
 The school asked us to make a report of data analysis, but I developed it into a cpmplete data science project.
 
-### At the beginning, we can refer to Data Science project.pdf to understand the entire project.
+### At the beginning, we can refer to Data Science project.pdf to understand the entire project./n
 https://github.com/HSUAN110/Hsuan-DataScience-UCI/blob/main/Data%20Science%20project.pdf
   We use Cross Industry Standard Process for Data Mining (CRISP-DM) process to complete this project.
   Regarding Data Understanding, we use python code and data visualization to understand the data.
