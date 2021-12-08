@@ -28,3 +28,4 @@ https://github.com/HSUAN110/Hsuan-DataScience-UCI/blob/main/Data%20Science%20pro
   File eight combined data standardization with cross-validation and SMOTE.
     https://github.com/HSUAN110/Hsuan-DataScience-UCI/blob/main/8.standardlized%26kfold%26SMOTE.pdf
 I organize the code into PDF files that is easy to read!If you need the code as .py files, please don’t hesitate to contact me.
+
