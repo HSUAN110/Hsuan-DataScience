@@ -1,14 +1,14 @@
 # Hsuan-DataScience(UCI)
 The school asked us to make a report of data analysis, but I developed it into a cpmplete data science project.
 
-### At the beginning, we can refer to Data Science project.pdf to understand the entire project./n
-https://github.com/HSUAN110/Hsuan-DataScience-UCI/blob/main/Data%20Science%20project.pdf
-  We use Cross Industry Standard Process for Data Mining (CRISP-DM) process to complete this project.
-  Regarding Data Understanding, we use python code and data visualization to understand the data.
-  In the part of Data Preprocessing, we use several methods(like standardize the data, use cross-validation, use SMOTE), each of which has its own trained model.
-  In the Modeling section, we use several algorithms(Support Vector Machine, KNeighbors, DecisionTree, RandomForest, GradientBoosting, Neural network, etc.).
-  Evaluation has different evaluation methods for classification models and regression models. The evaluation values are put together into a table for comparison.
-  Deployment can be divided into two parts, one is data visualization to show the model results, the other one is to apply the results for practical application.
+### At the beginning, we can refer to Data Science project.pdf to understand the entire project.
+https://github.com/HSUAN110/Hsuan-DataScience-UCI/blob/main/Data%20Science%20project.pdf  
+  We use Cross Industry Standard Process for Data Mining (CRISP-DM) process to complete this project.  
+  Regarding Data Understanding, we use python code and data visualization to understand the data.  
+  In the part of Data Preprocessing, we use several methods(like standardize the data, use cross-validation, use SMOTE), each of which has its own trained model.  
+  In the Modeling section, we use several algorithms(Support Vector Machine, KNeighbors, DecisionTree, RandomForest, GradientBoosting, Neural network, etc.).  
+  Evaluation has different evaluation methods for classification models and regression models. The evaluation values are put together into a table for comparison.  
+  Deployment can be divided into two parts, one is data visualization to show the model results, the other one is to apply the results for practical application.  
 
 ### Next, we can view all the code in the following files
   File one has all the code (and notes), and the data has not undergone any pre-processing.
